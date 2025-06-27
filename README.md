@@ -1,5 +1,5 @@
 
-```markdown
+
 # 📒 Contact Book API
 
 A secure and production-ready Contact Book REST API built with Spring Boot, PostgreSQL, and JWT Authentication. Supports full CRUD operations on user contacts, packaged via Docker and ready for deployment on GCP Cloud Run.
