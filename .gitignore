@@ -1,0 +1,32 @@
+# Java build
+/target/
+*.jar
+*.war
+*.ear
+
+# Maven
+/logs
+/.mvn
+!.mvn/wrapper/maven-wrapper.jar
+**/mvnw
+**/mvnw.cmd
+
+# Eclipse / IntelliJ / VSCode
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+
+# Docker
+**/pgdata/
+**/tmp/
