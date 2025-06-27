@@ -1,7 +1,4 @@
 
-
----
-
 ```markdown
 # 📒 Contact Book API
 
